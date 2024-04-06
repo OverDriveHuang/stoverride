@@ -1,5 +1,5 @@
-name: 招商永隆Direct
-desc: 不过代理直接连
- 
+---
+name: 招商永隆直连代理
+desc: 让其不被漏网之鱼规则影响
 rules:
-  - SCRIPT,bilibili-quic,REJECT
+  - DOMAIN-KEYWORD,cmbwinglungbank,DIRECT
