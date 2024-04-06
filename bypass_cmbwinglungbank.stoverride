@@ -1,0 +1,5 @@
+name: 招商永隆直连代理
+desc: 让其不被漏网之鱼规则影响
+
+rules:
+  - DOMAIN-KEYWORD,cmbwinglungbank,DIRECT
